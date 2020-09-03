@@ -35,7 +35,7 @@
                                     class="glyphicon glyphicon-eye-open" aria-hidden="true"></span>
                                 <span><strong>View</strong></span></a></td>
                     </tr>
-
+  
                     <br>
                     @endforeach
 
